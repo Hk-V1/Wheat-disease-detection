@@ -23,8 +23,6 @@ This application enables farmers and agricultural professionals to identify whea
 - NumPy 1.26.0+
 - PyTorch 2.5.0+ or TensorFlow 2.18.0+ (for model integration)
 
-```
-
 ## Model Integration
 
 The application includes placeholder functions for model integration. Replace the mock prediction logic with your trained model.
