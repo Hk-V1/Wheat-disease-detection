@@ -1,0 +1,36 @@
+# Core dependencies for Wheat Disease Detection App
+# Python 3.13 compatible versions
+
+# Web framework
+streamlit>=1.39.0
+
+# Image processing
+Pillow>=10.4.0
+
+# Numerical computing
+numpy>=1.26.0
+
+# Deep Learning frameworks (uncomment the one you need)
+
+# For PyTorch (CPU version)
+# torch>=2.5.0
+# torchvision>=0.20.0
+
+# For TensorFlow (CPU version)
+# tensorflow>=2.18.0
+# tensorflow-lite>=2.18.0
+
+# Optional: For GPU support
+
+# PyTorch with CUDA (check CUDA version compatibility)
+# torch>=2.5.0+cu121
+# torchvision>=0.20.0+cu121
+
+# TensorFlow with GPU
+# tensorflow[and-cuda]>=2.18.0
+
+# Additional utilities (optional)
+# opencv-python>=4.10.0  # For advanced image processing
+# matplotlib>=3.9.0      # For visualization
+# pandas>=2.2.0          # For data handling
+# scikit-learn>=1.5.0    # For metrics and preprocessing
